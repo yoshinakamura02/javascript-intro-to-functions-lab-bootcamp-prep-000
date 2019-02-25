@@ -18,3 +18,7 @@ function sayHiToGrandma(string){
   return ("YES INDEED!")
   var uppercase = "HELLO"
 }
+function sayHiToGrandma(string){
+  return ("I love you, too.")
+  var mixedCase = "I love you, Grandma."
+}
