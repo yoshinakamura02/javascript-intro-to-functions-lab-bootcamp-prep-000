@@ -14,11 +14,11 @@ function sayHiToGrandma(string){
   var lowercase = "hello"
   return ("I can't hear you!")
 }
-function sayHiToGrandma(string){
-  var uppercase = "HELLO"
-  return ("YES INDEED!")
+function var uppercase = "HELLO"{
+  sayHiToGrandma(string)
+ return ("YES INDEED!") 
 }
-function sayHiToGrandma(string){
+ function sayHiToGrandma(string){
   var mixedCase = "I love you, Grandma."
   return ("I love you, too.")
 }
